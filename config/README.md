@@ -6,6 +6,7 @@
 - [X] Creating Tap/Hold Key at `CTRL` for `ESC` (vim made me do this)
 - [X] Switch `ENTER` and `BSPC`
 - [X] lock screen button top right in raise layer similiar to default mac keyboard
+- [X] moving `ENTER` next to `BSPC`
 
 # Macros
 - [ ] Convenience Macro for Rectangle on RAISE-layer (CTRL + GUI)
