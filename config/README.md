@@ -6,6 +6,7 @@
 - [X] Switch `ENTER` and `BSPC`
 - [X] lock screen button top right in raise layer similiar to default mac keyboard
 - [X] moving `ENTER` next to `BSPC`
+- [X] hyper key instead of right-shift
 
 # Macros
 - [ ] Convenience Macro for Rectangle on RAISE-layer (CTRL + GUI)
